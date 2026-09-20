@@ -1,6 +1,6 @@
 .idea/
 .env
 dinner-please-bot
-bot
+/bot
 coverage.out
 tmp/
