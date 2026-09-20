@@ -1,0 +1,6 @@
+.idea/
+.env
+dinner-please-bot
+bot
+coverage.out
+tmp/

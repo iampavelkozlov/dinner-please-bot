@@ -1,0 +1,11 @@
+bot:
+  # Keep secrets out of this file in production: export BOT_TOKEN instead.
+  token: ""
+  allowed_usernames:
+    - "pav_kozlov"
+    - "angelina_pos"
+  recipes_path: "recipes"
+  page_size: 6
+
+logger:
+  level: "debug" # debug|info|warn|error
